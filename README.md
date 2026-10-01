@@ -1,5 +1,8 @@
 # docx_creator
 
+## Credits
+Based on [original-package](https://github.com/alihassan143/flutter-packages).
+
 [![pub package](https://img.shields.io/pub/v/docx_creator.svg)](https://pub.dev/packages/docx_creator)
 [![Dart SDK](https://img.shields.io/badge/Dart-%3E%3D2.19.0-blue)](https://dart.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
